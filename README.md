@@ -5,7 +5,7 @@
   </p>
 </p>
 
-#  User Management API
+
 
 A RESTful API built with **FastAPI**, **SQLAlchemy**, and **SQLite** for managing users with full CRUD operations and data validation.
 
